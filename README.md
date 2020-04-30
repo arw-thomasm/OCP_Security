@@ -1,7 +1,7 @@
 <img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
 
 
-# Red Hat OpenShift 4.x Infrastructure Workshop
+# Red Hat IT Security Day
 ## remote version
 
 May 2020
@@ -11,51 +11,41 @@ May 2020
 
 ### Day 1:
 
-9:00		Welcome and Intro
+9:30		Welcome https://www.menti.com/7ykxr3eaid		
 
-		https://www.menti.com/wq7y7j1wjd
+		OpenShift from a security Perspektive
+		Questions to be answers about OpenShift Security
+
+		CoreOs
+		SELinux
+		RBAC
+		Registiry
+		CI7CD Pipeline
 		
+11:00		BREAK		
 
-9:15		OpenShift Architecture Part 1
+11:15		With Red Hat Product can solve additional issues
 
-				Overview / Installation
+		Network based disc encryption
+		Red Hat Identtity Management
 
-11:00		BREAK
+13:00		Lunch BREAK
 
-11:15		OpenShift Architecture Part 2
+14:00		Securing Workloads running on OpenShift
 
-				Configuration Networking Storage
+		API Management - 3Scale
+		Red Hat Service Mesh (from a security perspective)
 
-13:00		BREAK
+15:00		BREAK
 
-14:00		HandsOn Lab - Learn OpenShift 
+15:15		Integration point(s) into existing envirroments
 
-17:00		Wrapup and virtual after work drink
-
-
+16:30		Summary https://www.menti.com/z71igy9cgk
 
 
-### Day 2:
 
-9:00		Introduction Day2
 
-9:15		OpenShift Advanced Features
 
-				Container Native Virtualisation
 
-				Modern Registry Management (QUAY)				
 
-10:45		BREAK
-
-11:00		Open Shift Security
-
-12:00		OpenShift RoadMap			
-
-12:45		Q&A and Feedback
-
-13:00		BREAK
-
-14:00		HandsOn Lab 
-
-17:00		End of day two
 
