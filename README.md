@@ -20,7 +20,7 @@ May 2020
 		SELinux
 		RBAC
 		Registiry
-		CI7CD Pipeline
+		CI/CD Pipeline
 		
 11:00		BREAK		
 
