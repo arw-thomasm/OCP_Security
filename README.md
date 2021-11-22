@@ -4,7 +4,7 @@
 # Red Hat IT Security Day
 ## remote version
 
-May 2020
+Nov 2021
 
 ## Agenda:
 
