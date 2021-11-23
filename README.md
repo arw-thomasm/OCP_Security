@@ -13,7 +13,7 @@ Nov 2021
 
 9:30		Welcome https://www.menti.com/7ykxr3eaid		
 
-		OpenShift from a security Perspektive
+		OpenShift from a security Perspektive an overview
 		Questions to be answers about OpenShift Security
 
 		CoreOs
@@ -29,18 +29,20 @@ Nov 2021
 		Network based disc encryption
 		Red Hat Identtity Management
 
-13:00		Lunch BREAK
+12:30		Lunch BREAK
 
-14:00		Securing Workloads running on OpenShift
+13:30		Securing Workloads running on OpenShift
 
 		API Management - 3Scale
 		Red Hat Service Mesh (from a security perspective)
+		Advanced Container Security (ACS / Stackrox)
+		QUAY Registriy
 
 15:00		BREAK
 
 15:15		Integration point(s) into existing envirroments
 
-16:30		Summary https://www.menti.com/z71igy9cgk
+16:00		Q&A		
 
 
 
