@@ -6,12 +6,13 @@
 
 Nov 2021
 
+### Mentimeter Link:	
+
+https://www.menti.com/e1tqzb6n8b
+
 ## Agenda:
 
-
-### Day 1:
-
-9:30		Welcome https://www.menti.com/7ykxr3eaid		
+9:30		Welcome
 
 		OpenShift from a security Perspektive an overview
 		Questions to be answers about OpenShift Security
@@ -43,11 +44,3 @@ Nov 2021
 15:15		Integration point(s) into existing envirroments
 
 16:00		Q&A		
-
-
-
-
-
-
-
-
