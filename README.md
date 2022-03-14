@@ -4,7 +4,7 @@
 # Red Hat IT Security Day
 ## remote version
 
-Nov 2021
+Q2 2022
 
 ### Mentimeter Link:	
 
@@ -16,19 +16,22 @@ https://www.menti.com/e1tqzb6n8b
 
 		OpenShift from a security Perspektive an overview
 		Questions to be answers about OpenShift Security
-
-		CoreOs
-		SELinux
-		RBAC
-		Registiry
-		CI/CD Pipeline
 		
-11:00		BREAK		
+		Red Hat Core OS as the Imutable Base of OpenSHift
+		
+		What it is
+		How it works
+		How to enhance the security
 
-11:15		With Red Hat Product can solve additional issues
+10:45		BREAK		
+
+11:00		With Red Hat Product can solve additional issues
 
 		Network based disc encryption
 		Red Hat Identtity Management
+		Red Hat SSO (KEyCloak)
+		RED HAT IPA and RBAC
+		Red Hat Quay
 
 12:30		Lunch BREAK
 
@@ -37,10 +40,9 @@ https://www.menti.com/e1tqzb6n8b
 		API Management - 3Scale
 		Red Hat Service Mesh (from a security perspective)
 		Advanced Container Security (ACS / Stackrox)
-		QUAY Registriy
 
 15:00		BREAK
 
-15:15		Integration point(s) into existing envirroments
+15:15		Security Hands On Workshop
 
-16:00		Q&A		
+17:00		OpenEnd		
