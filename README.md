@@ -4,7 +4,7 @@
 # Red Hat IT Security Day
 ## remote version
 
-Nov 2021
+Q2 2022
 
 ### Mentimeter Link:	
 
