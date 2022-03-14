@@ -45,4 +45,6 @@ https://www.menti.com/e1tqzb6n8b
 
 15:15		Security Hands On Workshop
 
+		https://github.com/RedHatDemos/SecurityDemos/tree/master/2021Labs/OpenShiftSecurity/documentation
+
 17:00		OpenEnd		
