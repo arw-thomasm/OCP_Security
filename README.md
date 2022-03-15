@@ -14,7 +14,7 @@ https://www.menti.com/bke8pmp3o9
 
 9:30		Welcome
 
-		OpenShift from a security Perspektive an overview
+		OpenShift from a security Perspective an overview
 		Questions to be answers about OpenShift Security
 		
 		Red Hat Core OS as the Imutable Base of OpenSHift
@@ -25,10 +25,10 @@ https://www.menti.com/bke8pmp3o9
 
 10:45		BREAK		
 
-11:00		With Red Hat Product can solve additional issues
+11:00		Which Red Hat Product can solve additional issues
 
 		Network based disc encryption
-		Red Hat Identtity Management
+		Red Hat Identity Management
 		Red Hat SSO (KEyCloak)
 		RED HAT IPA and RBAC
 		Red Hat Quay
